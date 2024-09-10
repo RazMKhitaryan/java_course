@@ -1,3 +1,5 @@
+package homework_1_branching_array_loop;
+
 public class Homework_Looping {
     public static void main(String[] args) {
         //----------------exercise 1
