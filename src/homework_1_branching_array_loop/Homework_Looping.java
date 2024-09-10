@@ -77,16 +77,16 @@ public class Homework_Looping {
 
         for (int i = 1; i <= n; i++) {
             if (i == 1 || i == 2) {
-                System.out.println(1);
+                System.out.print(1+",");
                 continue;
             }
             temp = first + second;
-            System.out.println(temp);
+            System.out.print(temp+",");
 
             first = second;
             second = temp;
-
         }
+        System.out.println();
 
         //----------------exercise 7
         System.out.println("-----exercise 7");
