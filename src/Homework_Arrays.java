@@ -41,18 +41,6 @@ public class Homework_Arrays {
         //----------------exercise 3
         System.out.println("-----exercise 3");
 
-        num = new int[]{1, 2, 3, 4, 5};
-        int[] fin = new int[]{1, 2, 3, 4, 5};
-
-        for (int i = 0; i < num.length; i++) {
-            for (int j = 0; j < num.length; j++) {
-                if (num[i] + num[j] == 10) {
-                    fin[i] = num[i];
-                }
-                //       System.out.println(fin[i]);
-            }
-        }
-
 
     }
 }
