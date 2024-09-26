@@ -1,4 +1,4 @@
-package homework_4_objects;
+package homework_4_objects.geometry;
 
 public class LineDemo {
     public static void main(String[] args) {

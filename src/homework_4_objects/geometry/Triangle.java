@@ -1,4 +1,4 @@
-package homework_4_objects;
+package homework_4_objects.geometry;
 
 public class Triangle {
     private Point point1;

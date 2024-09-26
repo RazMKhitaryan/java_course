@@ -1,4 +1,4 @@
-package homework_4_objects;
+package homework_4_objects.geometry;
 
 public class TriangleDemo {
     public static void main(String[] args) {
